@@ -3,3 +3,4 @@
 ._solution-code
 ._starting-code 
 **/node_modules/**
+.env
